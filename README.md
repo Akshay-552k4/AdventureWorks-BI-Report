@@ -9,7 +9,7 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 ├── Data/               # Raw datasets (if non-confidential)
 ├── Screenshots/        # Images of your dashboards
 ├── Project_Files/      # Power BI .pbix file
-├── README.md           # Project description
+├── README.md           # [Project description](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/edit/main/README.md)
 ├── Report.pdf          # Any report or documentation
 ```
 
