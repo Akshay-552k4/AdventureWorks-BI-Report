@@ -42,8 +42,8 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 - Enhance **data storytelling** with tooltips and annotations.
 
 ## 🤝 Connect With Me
-🔗 [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
-📧 [Your Email Address](mailto:your-email@example.com)  
+🔗 [Your LinkedIn Profile](www.linkedin.com/in/akshay-data)  
+📧 [Your Email Address](akshay552k4@gmail.com)  
 
 ---
 
