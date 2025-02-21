@@ -23,7 +23,7 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 - **Customer Segmentation**: Categorizing customers based on purchase behavior and demographics.
 
 ## 🔗 Dataset Details
-- **Source**: AdventureWorks dataset.
+- **Source**: [AdventureWorks dataset](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/tree/main/Data).
 
 ## 🚀 Features Implemented
 ✅ **Data Cleaning & Transformation**: Used Power Query for handling missing values and shaping data.
