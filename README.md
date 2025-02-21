@@ -35,4 +35,6 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 - Integrate a **live database connection** instead of static CSV files.
 - Enhance **data storytelling** with tooltips and annotations.
 
-⭐ If you like this project, don’t forget to give it a **star** on GitHub!
+---
+
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! 🚀
