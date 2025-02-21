@@ -22,19 +22,8 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 - **Product Trends**: Identifying high-performing products and return rates.
 - **Customer Segmentation**: Categorizing customers based on purchase behavior and demographics.
 
-## ❓ Business Questions Answered
-This dashboard aims to answer the following key business questions:
-1. What are the total sales and revenue trends over time?
-2. Which products generate the highest sales and profits?
-3. How do sales compare across different regions and customer segments?
-4. What is the return rate for different products and categories?
-5. Who are the top high-value customers based on purchasing patterns?
-6. What are the monthly and yearly sales growth trends?
-
 ## 🔗 Dataset Details
-- **Source**: AdventureWorks dataset (sample business data provided by Microsoft).
-- **Data Size**: Multiple CSV files containing sales, product, and customer information.
-- **Key Fields**: Date, Sales, Product ID, Customer ID, Territory, Revenue, Profit, and Returns.
+- **Source**: AdventureWorks dataset.
 
 ## 🚀 Features Implemented
 ✅ **Data Cleaning & Transformation**: Used Power Query for handling missing values and shaping data.
@@ -45,12 +34,7 @@ This dashboard aims to answer the following key business questions:
 ## 🛠️ Tools & Technologies Used
 - **Power BI**: Dashboard creation & data visualization.
 - **DAX (Data Analysis Expressions)**: Custom calculations.
-- **SQL/Excel**: Data pre-processing (if applicable).
-
-## 📜 How to Use
-1. Download the `.pbix` file from the **Project_Files/** folder.
-2. Open it in **Power BI Desktop**.
-3. Explore the interactive visuals and insights.
+- **SQL/Excel**: Data pre-processing.
 
 ## 💡 Future Enhancements
 - Add **forecasting visuals** using Power BI’s built-in analytics tools.
