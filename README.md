@@ -7,7 +7,7 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 - **Source**: [AdventureWorks dataset](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/tree/main/Data).
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard_preview.png)
+![Dashboard Screenshot](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/blob/main/Dashboard.pdf)
 
 ## 📈 Key Insights
 - **Sales Performance**: Trends over time, top-selling products, and revenue breakdown.
