@@ -17,8 +17,11 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 
 ## 🚀 Features Implemented
 ✅ **Data Cleaning & Transformation**: Used Power Query for handling missing values and shaping data.
+
 ✅ **Data Modeling**: Created relationships between tables using primary and foreign keys.
+
 ✅ **DAX Measures**: Implemented calculated measures such as total sales, profit margin, and customer segmentation.
+
 ✅ **Interactive Visuals**: Built slicers, drill-through pages, and dynamic tooltips.
 
 ## 🛠️ Tools & Technologies Used
