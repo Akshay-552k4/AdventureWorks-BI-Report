@@ -7,7 +7,7 @@ This Power BI project analyzes **AdventureWorks** sales data to track key perfor
 - **Source**: [AdventureWorks dataset](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/tree/main/Data).
   
 ## 📊 Dashboard Preview  
-![Dashboard Screenshot](Screenshots/dashboard_main.png)  
+![Dashboard Summary Page]![Image](https://github.com/user-attachments/assets/124ba438-26ce-409d-a322-6ec31be9e9d3) 
 
 🔗 **[Click here to view the full dashboard](https://github.com/yourrepo/AdventureWorks_Dashboard.pbix)**
 
