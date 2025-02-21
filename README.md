@@ -4,7 +4,11 @@
 This Power BI project analyzes **AdventureWorks** sales data to track key performance indicators (**KPIs**) such as **total sales, revenue, profit, and returns**. The goal is to provide an **interactive dashboard** for business intelligence, helping stakeholders compare **regional performance, analyze product trends, and identify high-value customers**.
 
 ## 🔗 Dataset Details
+- 
 - **Source**: [AdventureWorks dataset](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/tree/main/Data).
+
+- **Source**: [AdventureWorks dataset](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/tree/main/Data).
+
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/blob/main/Dashboard.pdf)
